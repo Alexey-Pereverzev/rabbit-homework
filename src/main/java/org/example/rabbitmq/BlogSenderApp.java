@@ -7,7 +7,7 @@ import com.rabbitmq.client.ConnectionFactory;
 
 import java.util.Scanner;
 
-public class BlogSenderApp {
+public class BlogSenderApp {        // Sender
     private static final String EXCHANGE_NAME = "BlogApp";
 
     public static void main(String[] argv) throws Exception {
