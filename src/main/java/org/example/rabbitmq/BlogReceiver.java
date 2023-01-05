@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
-public class BlogReceiver {
+public class BlogReceiver {     // Receiver
     private static final String EXCHANGE_NAME = "BlogApp";
     private static final String DELIMITER = " ";
 
