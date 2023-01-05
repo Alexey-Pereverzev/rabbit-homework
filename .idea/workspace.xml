@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f9b88f-d815-4794-a931-51149f67224b" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="b5f9b88f-d815-4794-a931-51149f67224b" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rabbitmq/BlogReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rabbitmq/BlogSenderApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Java/java_level3_pereverzev_hw",
+    "last_opened_file_path": "C:/Java/rabbit-homework/src/main/java/org/example/rabbitmq",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672854711215</updated>
       <workItem from="1672854713074" duration="2580000" />
-      <workItem from="1672906987313" duration="13930000" />
+      <workItem from="1672906987313" duration="14240000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1672854729091</created>
@@ -107,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672854729091</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson 09 - RabbitMq">
+      <created>1672923805163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672923805163</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson 09 - RabbitMq">
+      <created>1672923927298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672923927298</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="lesson 09 - RabbitMq" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 09 - RabbitMq" />
   </component>
 </project>
